@@ -45,3 +45,12 @@ body {
 
 	background-attachment: fixed;
 }
+
+.btn {
+	color: white !important;
+}
+
+.medsos {
+	text-align: center;
+	margin-top: 25px;
+}
