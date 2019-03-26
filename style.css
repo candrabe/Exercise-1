@@ -2,6 +2,10 @@ body {
 	margin: 0px;
 }
 
-h1 {
+#nama {
 	font-size: 30px;
+}
+
+#pekerjaan {
+	font-size: 20px;
 }
